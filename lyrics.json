@@ -1,0 +1,31 @@
+[
+    {
+        "line": "I'm sitting here in a boring room",
+        "duration": 1000
+    },
+
+    {
+        "line": "It's just another rainy Sunday afternoon",
+        "duration": 2000
+    },
+
+    {
+        "line": "I'm wasting my time I got nothing to do",
+        "duration": 3000
+    },
+
+    {
+        "line": "I'm hanging around I'm waiting for you",
+        "duration": 4000
+    },
+
+    {
+        "line": "But nothing ever happens",
+        "duration": 5000
+    },
+
+    {
+        "line": "And I wonder",
+        "duration": 6000
+    }
+]

@@ -1,0 +1,95 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    /* background-attachment: fixed;
+    background: linear-gradient(rgb(26, 26, 105),rgb(255, 255, 193)); */
+    height: 100%;
+    width: 100%;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#title{
+    font-family: fantasy;
+    font-size: 40px;
+    font-weight: lighter;
+    color: rgb(255, 210, 176);
+    text-align: center;
+}
+
+#name{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: rgba(137, 43, 226, 0.729);
+}
+
+#lyrics{
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 70px;
+    color: rgb(143, 215, 228);
+    height: 160px;
+    text-align:center;
+        
+    animation-name: lyricsMotion;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+#container {
+    height: 200px;
+    width: 800px;
+    border: 1px solid #333;
+    opacity: 0.8;
+    overflow: hidden;
+    margin: 25px auto;
+  }
+  
+
+/* #pitch{
+    background: orange;
+    height: 10px;
+    width: 100px;
+    margin: 10px -400px;
+    animation-name: move;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: right;
+    animation-timing-function: linear;
+} */
+
+/* #boo{
+    color: rgba(240, 248, 255, 0.3);
+
+} */
+
+#pitch:hover {
+    animation-play-state: paused;
+  }
+
+
+@keyframes lyricsMotion {
+    0%{
+        transform: translateY(10px);
+    }
+    50%{
+        transform: translateY(-10px);
+    }
+    100%{
+        transform: translateY(10px);
+    }
+}
+
+@keyframes move {
+    0% {
+      margin-left: -400px;
+    }
+    100% {
+      margin-left: 800px;
+    }
+  }

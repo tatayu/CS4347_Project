@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>index</title>
+    <link rel="stylesheet" href="design.css">
+</head>
+<body>
+    <div>
+    <h1 id="title">Audio Visualizer</h1>
+    </div>
+    <div>
+        <h2 id="lyrics"> </h2>
+        <script type = "text/javascript" src = "lyrics_script.js"></script>
+    </div>
+
+    <div>
+        <canvas class="myCanvas">
+            <!-- <p>Add suitable fallback here.</p> -->
+            <script type = "text/javascript" src = "pitch_script.js"></script>
+        </canvas>
+    </div>
+
+    <div id="boo">
+        <canvas class="score">
+            <script src="https://cdn.jsdelivr.net/npm/vexflow/build/cjs/vexflow.js"></script>
+            <script type = "text/javascript" src = "score_script.js"></script>
+        </canvas>
+    </div>    
+      
+    <!-- <div>
+    <h2 id="name">Group 3: Bao-Dai, Chaojie, Xiaoxue</h2>
+    </div> -->
+</body>
+</html>
