@@ -1,32 +1,226 @@
-{   "Lyrics":[
-        {
-            "line": "I'm sitting here in a boring room",
-            "duration": 1000
-        },
-
-        {
-            "line": "It's just another rainy Sunday afternoon",
-            "duration": 2000
-        },
-
-        {
-            "line": "I'm wasting my time I got nothing to do",
-            "duration": 3000
-        },
-
-        {
-            "line": "I'm hanging around I'm waiting for you",
-            "duration": 4000
-        },
-
-        {
-            "line": "You are my sunshine",
-            "duration": 5000
-        },
-
-        {
-            "line": "And I wonder",
-            "duration": 6000
-        }
+{
+    "Lyrics": [
+      {
+        "line": "The other night dear",
+        "duration": 2068,
+        "start": 8412,
+        "end": 10480
+      },
+      {
+        "line": "As I like sleeping",
+        "duration": 1803,
+        "start": 10543,
+        "end": 12346
+      },
+      {
+        "line": "I dream I help you in my arms",
+        "duration": 3856,
+        "start": 12424,
+        "end": 16280
+      },
+      {
+        "line": "As I awoke there",
+        "duration": 1881,
+        "start": 16405,
+        "end": 18286
+      },
+      {
+        "line": "I was mistaken",
+        "duration": 1959,
+        "start": 18349,
+        "end": 20308
+      },
+      {
+        "line": "And I hung my head and I cried",
+        "duration": 3359,
+        "start": 20401,
+        "end": 23760
+      },
+      {
+        "line": "You are my sunshine",
+        "duration": 2068,
+        "start": 24195,
+        "end": 26263
+      },
+      {
+        "line": "My only sunshine",
+        "duration": 1866,
+        "start": 26372,
+        "end": 28238
+      },
+      {
+        "line": "You awake me happy",
+        "duration": 1819,
+        "start": 28316,
+        "end": 30135
+      },
+      {
+        "line": "When skies are gray",
+        "duration": 1727,
+        "start": 30228,
+        "end": 31955
+      },
+      {
+        "line": "You never know dear",
+        "duration": 1803,
+        "start": 32157,
+        "end": 33960
+      },
+      {
+        "line": "How much I love you",
+        "duration": 2161,
+        "start": 34007,
+        "end": 36168
+      },
+      {
+        "line": "Please don't take mine sunshine away",
+        "duration": 3204,
+        "start": 36308,
+        "end": 39512
+      },
+      {
+        "line": "I always love you",
+        "duration": 1835,
+        "start": 55528,
+        "end": 57363
+      },
+      {
+        "line": "Make you happy",
+        "duration": 1881,
+        "start": 57503,
+        "end": 59384
+      },
+      {
+        "line": "If you will only take same",
+        "duration": 3483,
+        "start": 59446,
+        "end": 62929
+      },
+      {
+        "line": "But feel leave me to love another",
+        "duration": 3763,
+        "start": 63303,
+        "end": 67066
+      },
+      {
+        "line": "You'll regreted tall some day",
+        "duration": 3624,
+        "start": 67345,
+        "end": 70969
+      },
+      {
+        "line": "You are my sunshine",
+        "duration": 2052,
+        "start": 71233,
+        "end": 73285
+      },
+      {
+        "line": "My only sunshine",
+        "duration": 1897,
+        "start": 73348,
+        "end": 75245
+      },
+      {
+        "line": "He makes me happy",
+        "duration": 1960,
+        "start": 75322,
+        "end": 77282
+      },
+      {
+        "line": "When skies gray",
+        "duration": 1633,
+        "start": 77359,
+        "end": 78992
+      },
+      {
+        "line": "You never owe dear",
+        "duration": 2021,
+        "start": 79210,
+        "end": 81231
+      },
+      {
+        "line": "How much I love you",
+        "duration": 2022,
+        "start": 81309,
+        "end": 83331
+      },
+      {
+        "line": "Please don't take sunshine away",
+        "duration": 3437,
+        "start": 83470,
+        "end": 86907
+      },
+      {
+        "line": "You told me each once dear",
+        "duration": 2021,
+        "start": 103110,
+        "end": 105131
+      },
+      {
+        "line": "You really loved me",
+        "duration": 1913,
+        "start": 105271,
+        "end": 107184
+      },
+      {
+        "line": "And now one else come between",
+        "duration": 3670,
+        "start": 107246,
+        "end": 110916
+      },
+      {
+        "line": "But now you left me and I love another",
+        "duration": 3857,
+        "start": 111133,
+        "end": 114990
+      },
+      {
+        "line": "You have shatterd of my dreams",
+        "duration": 3498,
+        "start": 115363,
+        "end": 118861
+      },
+      {
+        "line": "You are my sunshine",
+        "duration": 1944,
+        "start": 119188,
+        "end": 121132
+      },
+      {
+        "line": "My only sunshine",
+        "duration": 1913,
+        "start": 121209,
+        "end": 123122
+      },
+      {
+        "line": "You made me happy",
+        "duration": 1913,
+        "start": 123215,
+        "end": 125128
+      },
+      {
+        "line": "When skies are gray",
+        "duration": 1788,
+        "start": 125221,
+        "end": 127009
+      },
+      {
+        "line": "You'll never know dear",
+        "duration": 2006,
+        "start": 127134,
+        "end": 129140
+      },
+      {
+        "line": "How much I love you",
+        "duration": 2068,
+        "start": 129202,
+        "end": 131270
+      },
+      {
+        "line": "Please don't take my sunshine away",
+        "duration": 3546,
+        "start": 131332,
+        "end": 134878
+      }
     ]
-}
+  }

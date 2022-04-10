@@ -217,9 +217,9 @@ function draw_score(){
     // Connect it to the rendering context and draw!
     stave.setContext(context).draw();
 
-    console.log(current_time);
-    console.log(current_set);
-    console.log(set_duration_sum[current_set]);
+    // console.log(current_time);
+    // console.log(current_set);
+    // console.log(set_duration_sum[current_set]);
     // if(current_time >= set_duration_sum[current_set]){ 
     //     current_set ++;
     //     console.log("set");
